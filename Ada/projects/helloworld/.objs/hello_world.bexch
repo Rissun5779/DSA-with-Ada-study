@@ -1,0 +1,18 @@
+[GENERATED OBJECT FILE]
+b__hello_world.o
+[PROJECT FILES]
+/home/rissun57/Desktop/DSA/Ada/projects/helloworld/hello_world.gpr
+20260209151518 a62aaa40fcb234c63a840c5124b54928
+[BOUND OBJECT FILES]
+/home/rissun57/Desktop/DSA/Ada/projects/helloworld/.objs/hello_world.o
+[GENERATED SOURCE FILES]
+b__hello_world.ads
+b__hello_world.adb
+b__hello_world.ali
+[RESULTING OPTIONS]
+-L/home/rissun57/Desktop/DSA/Ada/projects/helloworld/.objs/
+-L/home/rissun57/Desktop/DSA/Ada/projects/helloworld/.objs/
+-L/usr/lib/gcc/x86_64-linux-gnu/13/adalib/
+-shared
+-lgnat-13
+-ldl
