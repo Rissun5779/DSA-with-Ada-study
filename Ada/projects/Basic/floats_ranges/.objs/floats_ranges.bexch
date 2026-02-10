@@ -1,0 +1,18 @@
+[GENERATED OBJECT FILE]
+b__floats_ranges.o
+[PROJECT FILES]
+/home/rissun57/Desktop/DSA/Ada/projects/Basic/floats_ranges/floats_ranges.gpr
+20260210132255 8ec112ae0c618607eb528cac366ddd99
+[BOUND OBJECT FILES]
+/home/rissun57/Desktop/DSA/Ada/projects/Basic/floats_ranges/.objs/floats_ranges.o
+[GENERATED SOURCE FILES]
+b__floats_ranges.ads
+b__floats_ranges.adb
+b__floats_ranges.ali
+[RESULTING OPTIONS]
+-L/home/rissun57/Desktop/DSA/Ada/projects/Basic/floats_ranges/.objs/
+-L/home/rissun57/Desktop/DSA/Ada/projects/Basic/floats_ranges/.objs/
+-L/usr/lib/gcc/x86_64-linux-gnu/13/adalib/
+-shared
+-lgnat-13
+-ldl

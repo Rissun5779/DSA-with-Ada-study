@@ -9,7 +9,7 @@
                 "-cargs:ada",
                 "-gnatef"
             ],
-            "problemMatcher":[
+            "problemMatcher": [
                 "$ada-error",
                 "$ada-warning",
                 "$ada-info"
@@ -19,6 +19,14 @@
                 "isDefault": true
             },
             "label": "ada: Build current project"
+        },
+        {
+            "type": "ada",
+            "compound": [
+                "ada: Build main - ${file}",
+                "ada: Run main - ${file}"
+            ],
+            "label": "ada: Build and run main - ${fileBasename}"
         }
     ]
 }

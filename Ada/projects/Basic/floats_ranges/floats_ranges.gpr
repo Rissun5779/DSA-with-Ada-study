@@ -1,0 +1,8 @@
+project floats_ranges is
+   for Main use ("floats_ranges.adb");
+   for Object_Dir use ".objs";
+
+   package Compiler is
+      for Default_Switches ("Ada") use ("-g");
+   end Compiler;
+end floats_ranges;
