@@ -1,0 +1,18 @@
+[GENERATED OBJECT FILE]
+b__bool.o
+[PROJECT FILES]
+/home/rissun57/Desktop/DSA/Ada/projects/Basic/bool/bool.gpr
+20260210133354 931c335cfbf0ece71ca738ca752e9e29
+[BOUND OBJECT FILES]
+/home/rissun57/Desktop/DSA/Ada/projects/Basic/bool/.objs/bool.o
+[GENERATED SOURCE FILES]
+b__bool.ads
+b__bool.adb
+b__bool.ali
+[RESULTING OPTIONS]
+-L/home/rissun57/Desktop/DSA/Ada/projects/Basic/bool/.objs/
+-L/home/rissun57/Desktop/DSA/Ada/projects/Basic/bool/.objs/
+-L/usr/lib/gcc/x86_64-linux-gnu/13/adalib/
+-shared
+-lgnat-13
+-ldl

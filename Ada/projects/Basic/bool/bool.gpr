@@ -1,0 +1,8 @@
+project bool is
+   for Main use ("bool.adb");
+   for Object_Dir use ".objs";
+
+   package Compiler is
+      for Default_Switches ("Ada") use ("-g");
+   end Compiler;
+end bool;

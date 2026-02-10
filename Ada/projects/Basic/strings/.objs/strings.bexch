@@ -1,0 +1,18 @@
+[GENERATED OBJECT FILE]
+b__strings.o
+[PROJECT FILES]
+/home/rissun57/Desktop/DSA/Ada/projects/Basic/strings/strings.gpr
+20260210134027 9053e096fddec0959d88b697bf783f1c
+[BOUND OBJECT FILES]
+/home/rissun57/Desktop/DSA/Ada/projects/Basic/strings/.objs/strings.o
+[GENERATED SOURCE FILES]
+b__strings.ads
+b__strings.adb
+b__strings.ali
+[RESULTING OPTIONS]
+-L/home/rissun57/Desktop/DSA/Ada/projects/Basic/strings/.objs/
+-L/home/rissun57/Desktop/DSA/Ada/projects/Basic/strings/.objs/
+-L/usr/lib/gcc/x86_64-linux-gnu/13/adalib/
+-shared
+-lgnat-13
+-ldl

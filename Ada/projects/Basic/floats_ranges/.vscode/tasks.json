@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "ada",
+			"compound": [
+				"ada: Build main - bool.adb",
+				"ada: Run main - bool.adb"
+			],
+			"label": "ada: Build and run main - bool.adb"
+		}
+	]
+}
